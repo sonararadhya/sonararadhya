@@ -2,7 +2,7 @@
 <h3 align="center">💻 Software Developer • 📊 Data & AI Enthusiast • 🔐 Cybersecurity Learner</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Secure+Systems;Backend+Focused+Developer;Data+Engineering+Learner;AI+%26+ML+Explorer;Continuous+Learner" />
+<img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=800&pause=1000&speed=50&lines=Full+Stack+Developer;Tech+Enthusiast;Curious+Learner;Cybersecurity+Enthusiast;AI+%26+Data+Explorer" />
 </p>
 
 ---
