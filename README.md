@@ -69,6 +69,7 @@ Proficient in **Machine Learning techniques**, predictive analytics, and secure 
 
 | Project | Tech Stack | Description | Link |
 |--------|-------------|-------------|------|
+| **Aradhya Portfolio** | JavaScript, HTML, CSS | Interactive developer portfolio with particle animations, responsive UI, and light/dark theme support | 🔗 https://github.com/sonararadhya/aradhya-portfolio |
 | **ExpensePilot** | Node.js, MongoDB | Expense tracking web app for managing daily expenses | 🔗 https://github.com/sonararadhya/ExpensePilot |
 | **RoadWise** | PHP, MySQL | Driving school management system with dashboard | 🔗 https://github.com/sonararadhya/RoadWise |
 | **Healthcare Chatbot** | Python, ML | AI chatbot predicting health conditions | 🔗 https://github.com/sonararadhya/Healthcare_Chatbot |
