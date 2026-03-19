@@ -98,7 +98,7 @@ English • Hindi • Marathi • Gujarati • Japanese (Beginner)
 📧 sonararadhya@gmail.com  
 GitHub → https://github.com/sonararadhya  
 LinkedIn → https://www.linkedin.com/in/aradhya-sonar  
-Portfolio → https://aradhyasonar.netlify.app/
+Portfolio → https://aradhyasonar-portfolio.vercel.app/
 
 ---
 
