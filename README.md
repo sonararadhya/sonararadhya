@@ -81,7 +81,7 @@ Proficient in **Machine Learning techniques**, predictive analytics, and secure 
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonararadhya&layout=compact&theme=tokyonight&hide_border=true" height="165"/><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonararadhya&layout=compact&theme=tokyonight&hide_border=true" height="165"/><br><hr><br>
 <img src="https://streak-stats.demolab.com/?user=sonararadhya&theme=tokyonight"/>
 </p>
 
