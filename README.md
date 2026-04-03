@@ -64,16 +64,20 @@ Proficient in **Machine Learning techniques**, predictive analytics, and secure 
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 ---
+---
 
 ## 🚀 Projects Overview
 
+A selection of projects demonstrating **full-stack development, AI integration, and system design capabilities**.
+
 | Project | Tech Stack | Description | Link |
 |--------|-------------|-------------|------|
-| **Aradhya Portfolio** | JavaScript, HTML, CSS | Interactive developer portfolio with particle animations, responsive UI, and light/dark theme support | 🔗 https://github.com/sonararadhya/aradhya-portfolio |
-| **ExpensePilot** | Node.js, MongoDB | Expense tracking web app for managing daily expenses | 🔗 https://github.com/sonararadhya/ExpensePilot |
-| **RoadWise** | PHP, MySQL | Driving school management system with dashboard | 🔗 https://github.com/sonararadhya/RoadWise |
-| **Healthcare Chatbot** | Python, ML | AI chatbot predicting health conditions | 🔗 https://github.com/sonararadhya/Healthcare_Chatbot |
-| **Chess7Knight** | Python, Pygame, Stockfish | AI-powered chess game with animations & drag-drop UI | 🔗 https://github.com/sonararadhya/Chess7Knight |
+| **Netlytics Zenith V10** | React, Vite, Supabase, Recharts | Advanced network telemetry platform with AI diagnostics, real-time monitoring, and performance analytics | 🔗 https://github.com/sonararadhya/Netlytics |
+| **Aradhya Portfolio** | JavaScript, HTML, CSS | Interactive developer portfolio with particle animations, responsive UI, and theme support | 🔗 https://github.com/sonararadhya/aradhya-portfolio |
+| **ExpensePilot** | Node.js, MongoDB | Full-stack expense tracking application for managing daily financial activity | 🔗 https://github.com/sonararadhya/ExpensePilot |
+| **RoadWise** | PHP, MySQL | Driving school management system with admin dashboard and user modules | 🔗 https://github.com/sonararadhya/RoadWise |
+| **Healthcare Chatbot** | Python, Machine Learning | AI chatbot for predicting health conditions based on symptoms | 🔗 https://github.com/sonararadhya/Healthcare_Chatbot |
+| **Chess7Knight** | Python, Pygame, Stockfish | AI-powered chess engine with animations and interactive UI | 🔗 https://github.com/sonararadhya/Chess7Knight |
 
 ---
 
