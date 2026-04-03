@@ -85,7 +85,7 @@ A selection of projects demonstrating **full-stack development, AI integration, 
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonararadhya&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sonararadhya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 <br>
 <hr>
