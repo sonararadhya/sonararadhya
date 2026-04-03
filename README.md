@@ -72,7 +72,7 @@ A selection of projects demonstrating **full-stack development, AI integration, 
 
 | Project | Tech Stack | Description | Link |
 |--------|-------------|-------------|------|
-| **Netlytics Zenith V10** | React, Vite, Supabase, Recharts | Advanced network telemetry platform with AI diagnostics, real-time monitoring, and performance analytics | 🔗 https://github.com/sonararadhya/Netlytics |
+| **NetChronaix** | React, Vite, Supabase, Recharts | Advanced network telemetry platform with AI diagnostics, real-time monitoring, and performance analytics | 🔗 https://github.com/sonararadhya/NetChronaix |
 | **Aradhya Portfolio** | JavaScript, HTML, CSS | Interactive developer portfolio with particle animations, responsive UI, and theme support | 🔗 https://github.com/sonararadhya/aradhya-portfolio |
 | **ExpensePilot** | Node.js, MongoDB | Full-stack expense tracking application for managing daily financial activity | 🔗 https://github.com/sonararadhya/ExpensePilot |
 | **RoadWise** | PHP, MySQL | Driving school management system with admin dashboard and user modules | 🔗 https://github.com/sonararadhya/RoadWise |
