@@ -25,6 +25,18 @@
 
 ---
 
+<div align="center">
+  <h3><code>aradhya@github ~ $ whoami</code></h3>
+  <table>
+    <tr>
+      <td valign="top"><img src="./avi-ascii.svg" width="370" alt="ASCII Portrait" /></td>
+      <td valign="top"><img src="./info-card.svg" width="490" alt="Neofetch Info Card" /></td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ## ⚡ About Me
 
 I am a **Software Developer and AI Engineer** passionate about designing high-performance full-stack applications, intelligent computer vision systems, and robust developer tools. 
@@ -38,6 +50,7 @@ I am a **Software Developer and AI Engineer** passionate about designing high-pe
 
 ## 🚀 Featured Projects
 
+>>>>>>> d9bf1e0 (feat: add animated terminal ASCII portrait and info card)
 | Project | Tech Stack | Description | Showcase Link |
 | :--- | :--- | :--- | :---: |
 | 🤖 **AutoREADME** | `Python` `FastAPI` `Groq` `Gemini` `Supabase` | **Autonomous AI Documentation Engine** that scans repos, analyzes codebases, and generates viral, production-grade documentation automatically. | [🔗 Code](https://github.com/sonararadhya/AutoREADME) |
@@ -148,4 +161,8 @@ I am a **Software Developer and AI Engineer** passionate about designing high-pe
 
 <p align="center">
   <i>🔥 "Consistency + Curiosity + Building = Continuous Growth" 🔥</i>
+<<<<<<< HEAD
 </p>
+=======
+</p>
+>>>>>>> d9bf1e0 (feat: add animated terminal ASCII portrait and info card)

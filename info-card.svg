@@ -1,0 +1,74 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 490 312" width="490" height="312">
+  <style>
+    .card-bg { fill: #0d1117; stroke: #30363d; stroke-width: 1px; rx: 8px; }
+    .header-bar { fill: #161b22; }
+    .dot-red { fill: #ff5f56; }
+    .dot-yellow { fill: #ffbd2e; }
+    .dot-green { fill: #27c93f; }
+    .title-text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, monospace; font-size: 12px; fill: #8b949e; font-weight: 600; }
+    .key-text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 12.5px; font-weight: bold; }
+    .val-text { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; font-size: 12px; fill: #c9d1d9; }
+    .separator { stroke: #30363d; stroke-width: 1px; }
+    @keyframes lineFade {
+      from { opacity: 0; transform: translateY(6px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .animated-line { animation: lineFade 0.45s ease-out forwards; opacity: 0; }
+  </style>
+  <rect width="490" height="312" class="card-bg" rx="8" />
+  <path d="M 0 8 Q 0 0 8 0 L 482 0 Q 490 0 490 8 L 490 28 L 0 28 Z" class="header-bar" />
+  <circle cx="15" cy="14" r="4.5" class="dot-red" />
+  <circle cx="28" cy="14" r="4.5" class="dot-yellow" />
+  <circle cx="41" cy="14" r="4.5" class="dot-green" />
+  <text x="245" y="18" text-anchor="middle" class="title-text">aradhya@github ~ neofetch</text>
+  <g class="animated-line" style="animation-delay: 0.05s;">
+    <text x="20" y="54" class="key-text" fill="#7ee787">aradhya</text>
+    <text x="82" y="54" class="val-text" fill="#8b949e">@</text>
+    <text x="96" y="54" class="key-text" fill="#58a6ff">github</text>
+  </g>
+  <g class="animated-line" style="animation-delay: 0.13s;">
+    <line x1="20" y1="68" x2="470" y2="68" class="separator" />
+  </g>
+  <g class="animated-line" style="animation-delay: 0.22s;">
+    <text x="20" y="88" class="key-text" fill="#58a6ff">User:</text>
+    <text x="125" y="88" class="val-text">Aradhya Sonar (sonararadhya)</text>
+  </g>
+  <g class="animated-line" style="animation-delay: 0.31s;">
+    <text x="20" y="112" class="key-text" fill="#79c0ff">Role:</text>
+    <text x="125" y="112" class="val-text">Full-Stack AI Engineer &amp; Systems Architect</text>
+  </g>
+  <g class="animated-line" style="animation-delay: 0.40s;">
+    <text x="20" y="136" class="key-text" fill="#a5d6ff">Location:</text>
+    <text x="125" y="136" class="val-text">India 🇮🇳</text>
+  </g>
+  <g class="animated-line" style="animation-delay: 0.49s;">
+    <text x="20" y="160" class="key-text" fill="#7ee787">Now:</text>
+    <text x="125" y="160" class="val-text">Building Autonomous AI Infrastructure &amp; Intelligent Agents</text>
+  </g>
+  <g class="animated-line" style="animation-delay: 0.58s;">
+    <text x="20" y="184" class="key-text" fill="#ffa657">Prev:</text>
+    <text x="125" y="184" class="val-text">Full-Stack Web Dev &amp; Scalable Cloud Services</text>
+  </g>
+  <g class="animated-line" style="animation-delay: 0.67s;">
+    <text x="20" y="208" class="key-text" fill="#d2a8ff">Stack:</text>
+    <text x="125" y="208" class="val-text">Python, TypeScript, React, Next.js, FastAPI, PostgreSQL, Supabase, Docker</text>
+  </g>
+  <g class="animated-line" style="animation-delay: 0.76s;">
+    <text x="20" y="232" class="key-text" fill="#ff7b72">Highlights:</text>
+    <text x="125" y="232" class="val-text">🚀 AutoREADME Engine • 🤖 AI Workflows • ⚡ High Performance APIs</text>
+  </g>
+  <g class="animated-line" style="animation-delay: 0.85s;">
+    <text x="20" y="256" class="key-text" fill="#58a6ff">Status:</text>
+    <text x="125" y="256" class="val-text">🟢 Open for Technical Collaborations &amp; Engineering Roles</text>
+  </g>
+  <g class="animated-line" style="animation-delay: 0.95s;">
+    <rect x="20" y="286" width="16" height="12" fill="#484f58" rx="2" />
+    <rect x="42" y="286" width="16" height="12" fill="#ff7b72" rx="2" />
+    <rect x="64" y="286" width="16" height="12" fill="#7ee787" rx="2" />
+    <rect x="86" y="286" width="16" height="12" fill="#ffa657" rx="2" />
+    <rect x="108" y="286" width="16" height="12" fill="#58a6ff" rx="2" />
+    <rect x="130" y="286" width="16" height="12" fill="#d2a8ff" rx="2" />
+    <rect x="152" y="286" width="16" height="12" fill="#39d353" rx="2" />
+    <rect x="174" y="286" width="16" height="12" fill="#f0f6fc" rx="2" />
+  </g>
+</svg>
