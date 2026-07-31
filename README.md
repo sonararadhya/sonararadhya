@@ -5,6 +5,9 @@
 </h1>
 
 <p align="center">
+  <a href="https://github.com/sonararadhya">
+    <img src="https://img.shields.io/github/followers/sonararadhya?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="Followers" />
+  </a>
   <a href="https://aradhyasonar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
@@ -96,8 +99,14 @@ I am a **Software Developer and AI Engineer** passionate about designing high-pe
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=sonararadhya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="Aradhya's GitHub Stats" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonararadhya&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" alt="Most Used Languages" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=sonararadhya&show_icons=true&theme=tokyonight&hide_border=true" alt="Aradhya's GitHub Stats" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonararadhya&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonararadhya&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
 </div>
 
 <br/>
