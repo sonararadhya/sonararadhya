@@ -5,9 +5,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/sonararadhya">
-    <img src="https://img.shields.io/github/followers/sonararadhya?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="Followers" />
-  </a>
   <a href="https://aradhyasonar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
@@ -17,6 +14,10 @@
   <a href="mailto:sonararadhya@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <a href="https://github.com/sonararadhya">
+    <img src="https://img.shields.io/github/followers/sonararadhya?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=sonararadhya&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
 </p>
 
 <p align="center">
@@ -27,7 +28,16 @@
 
 ## ⚡ About Me
 
-I am a **Software Developer and AI Engineer** passionate about designing high-performance full-stack applications, intelligent computer vision systems, and robust developer tools. 
+```json
+{
+  "name": "Aradhya Santosh Sonar",
+  "role": "Full-Stack AI Engineer & System Architect",
+  "location": "India 🇮🇳",
+  "focus": ["Autonomous AI Agents", "Computer Vision Tracking", "High-Performance Systems"],
+  "tech_stack": ["Python", "TypeScript", "React", "Next.js", "FastAPI", "PostgreSQL", "Supabase", "Docker"],
+  "status": "Open to High-Impact Opportunities & Technical Collaborations"
+}
+```
 
 - 🔭 **Currently Engineering:** Autonomous AI systems, computer vision tracking pipelines, and high-frequency network diagnostic tools.
 - ⚡ **Core Strengths:** Full-Stack Architecture, Deep Learning / AI Integrations, System Optimization, Database Management, and Security Best Practices.
