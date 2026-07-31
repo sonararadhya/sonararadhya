@@ -99,14 +99,8 @@ I am a **Software Developer and AI Engineer** passionate about designing high-pe
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=sonararadhya&show_icons=true&theme=tokyonight&hide_border=true" alt="Aradhya's GitHub Stats" />
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonararadhya&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sonararadhya&theme=tokyonight" width="100%" alt="GitHub Profile Summary" />
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sonararadhya&theme=tokyonight" alt="Aradhya's GitHub Stats" />
+  <img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sonararadhya&theme=tokyonight" alt="Most Used Languages" />
 </div>
 
 <br/>
