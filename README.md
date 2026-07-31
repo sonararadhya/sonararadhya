@@ -5,9 +5,6 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/sonararadhya">
-    <img src="https://img.shields.io/github/followers/sonararadhya?label=Followers&style=for-the-badge&color=00F7FF&logo=github" alt="Followers" />
-  </a>
   <a href="https://aradhyasonar-portfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Live_Portfolio-00F7FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio" />
   </a>
