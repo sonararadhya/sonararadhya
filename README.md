@@ -109,14 +109,20 @@ A selection of high-impact projects demonstrating **full-stack development, AI i
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=sonararadhya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aradhya's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=sonararadhya&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sonararadhya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="Aradhya's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonararadhya&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Most Used Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonararadhya&theme=tokyo-night&hide_border=true" width="100%" alt="Contribution Activity Graph" />
+  <img src="https://ghchart.rshah.org/00F7FF/sonararadhya" width="100%" alt="Aradhya's GitHub Contribution Chart" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonararadhya&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Contribution Activity Graph" />
 </div>
 
 <br/>
