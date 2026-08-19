@@ -109,7 +109,7 @@ A selection of high-impact projects demonstrating **full-stack development, AI i
 ## 📊 GitHub Analytics & Activity
 
 <div align="center">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=sonararadhya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Aradhya's GitHub Stats" />
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=sonararadhya&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true" alt="Aradhya's GitHub Stats" />
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=sonararadhya&layout=compact&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
 </div>
 
