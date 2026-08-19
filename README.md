@@ -128,7 +128,7 @@ A selection of high-impact projects demonstrating **full-stack development, AI i
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=sonararadhya&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.vercel.app/?user=sonararadhya&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
 </div>
 
 ---
